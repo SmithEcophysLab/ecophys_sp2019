@@ -13,7 +13,8 @@ Contact [Nick](mailto:nick.smith@ttu.edu) if you have any issues.
 * Read over the [Syllabus](../Syllabus)
 * Read Chapin (2003). The full citation and link can be found in the 
 [Readings](../Readings) folder.
-* Practice searching for scientific literature using [Google Scholar](scholar.google.com)
+* Practice searching for scientific literature using 
+[Google Scholar](http://scholar.google.com)
 and Web of Science (through the [TTU libraries](https://www.depts.ttu.edu/library/)).
 * Buy book(s) (optional).
 
