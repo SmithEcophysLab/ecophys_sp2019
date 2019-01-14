@@ -10,10 +10,10 @@
 		
 %SetFonts
 
-% \usepackage[T1]{fontenc}
-% \usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
 
-% \usepackage{courier}
+\usepackage{tgbonum}
 
 %SetFonts
 
@@ -28,6 +28,8 @@
 \date{\vspace{-5ex}}
 
 \begin{document}
+
+{\fontfamily{phv}\selectfont %select helvetica (code = phv)
 
 \maketitle
 
@@ -241,5 +243,7 @@ feedback at the end of Tuesday's lecture. Thursdays will generally begin with an
 mini-quiz and discussion. 
 This will be followed by a discussion of a recent literature article and
 (time permitting) an in-class activity.
+
+} %end font selection
 
 \end{document} 

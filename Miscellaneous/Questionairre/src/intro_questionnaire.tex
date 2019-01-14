@@ -10,10 +10,10 @@
 		
 %SetFonts
 
-% \usepackage[T1]{fontenc}
-% \usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
 
-% \usepackage{courier}
+\usepackage{tgbonum}
 
 %SetFonts
 
@@ -30,6 +30,8 @@
 \def\wl{\par \vspace{\baselineskip}}
 
 \begin{document}
+
+{\fontfamily{phv}\selectfont %select helvetica (code = phv)
 
 \maketitle
 
@@ -103,7 +105,7 @@ Be as vague or specific as you'd like.}
 
 \section{Do you have any concerns you'd like me to know about?}
 
-
+} %end font selection
 
 \end{document}
 
