@@ -7,13 +7,14 @@
 								% TeX will automatically convert eps --> pdf in pdflatex
 
 \usepackage{hyperref}
-		
+
+
 %SetFonts
 
-% \usepackage[T1]{fontenc}
-% \usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
 
-% \usepackage{courier}
+\usepackage{tgbonum}
 
 %SetFonts
 
@@ -29,11 +30,13 @@
 
 \begin{document}
 
+{\fontfamily{phv}\selectfont %select helvetica (code = phv)
+
 \maketitle
 
 **Please contact Dr. Smith if you have trouble accessing the articles**
 
-**Note: this file will be updated to account for changes to the reading schedule**
+**Note: this file will be updated to account for changes to the schedule**
 
 \section*{Week of January 21}
 \textit{Classical Literature Tuesday - Jan 22} \par
@@ -171,5 +174,6 @@ to Climate Change. Annual Review of Environment and Resources 32: 1–29. \par
 TBD \par
 %\url{https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2486.2012.02797.x}
 
+} %end font selection
 
 \end{document}
