@@ -1,11 +1,17 @@
 # Notes for class on January 17, 2019
 
+## Objectives
+* Introduce the course
+* Learn a bit about each other's interests and background
+* Discuss how to search for and read scientific literature
+
 ## Agenda
 1. Introductions
 2. Pre-class "quiz" and discussion
 3. Course structure, goals, and [syllabus](../Syllabus)
-4. [Course website](https://github.com/SmithEcophysLab/ecophys_sp2019)
-5. Finding and reading scientific literature
+4. Discussion of semester outlook
+5. [Course website](https://github.com/SmithEcophysLab/ecophys_sp2019)
+6. Finding and reading scientific literature
 
 ## Homework
 * Navigate to course website and familiarize yourself with the structure.
