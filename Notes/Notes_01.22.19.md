@@ -7,18 +7,18 @@
 
 ## Agenda
 1. Course structure and materials recap and discussion
-2. Pick weekly topics and choose topic leaders
+2. Lecture: "What is Plant Ecophysiology?"
 3. Discuss: What are the outstanding *and important* questions in plant ecophysiology?
 Why are these important?
-3. Lecture: "What is Plant Ecophysiology?"
-5. Discussion of Chapin (2003) (Lead: Nick)
+4. Discussion of Chapin (2003) (Lead: Nick)
+5. Pick weekly topics and choose topic leaders
 
 ## Homework
-* Navigate to course website and familiarize yourself with the structure.
-Contact [Nick](mailto:nick.smith@ttu.edu) if you have any issues.
-* Read over the [Syllabus](../Syllabus)
 * Read Reich (2014). The full citation and link can be found in the 
 [Readings](../Readings) folder.
 
 ## In-class notes
 * (placeholder for any in-class notes)
+
+## Post class notes
+* (placeholder for any post class notes)

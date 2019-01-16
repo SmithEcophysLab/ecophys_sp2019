@@ -12,7 +12,7 @@ Readings and links will be updated within the
 Please check this file before class, as readings are subject to change as the
 semester progresses.
 * The daily class notes can be found in the [Notes](Notes) folder.
-* Presentation slides will be posted to the [Slides](Slides) folder.
+* Presentation slides will be posted to the [Lecture_Slides](Lecture_Slides) folder.
 
 ## Contact
 Please contact [Nick Smith](mailto:nick.smith@ttu.edu) with any issues related 

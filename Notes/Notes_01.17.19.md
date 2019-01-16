@@ -6,13 +6,13 @@
 * Discuss how to search for and read scientific literature
 
 ## Agenda
-1. Introductions
+1. Introductions (in pairs)
 2. Pre-class questionnaire and discussion
 3. Course structure, goals, and [syllabus](../Syllabus)
 4. Discussion of semester outlook
-5. Topic input
-6. [Course website](https://github.com/SmithEcophysLab/ecophys_sp2019)
-7. Finding and reading scientific literature
+5. [Course website](https://github.com/SmithEcophysLab/ecophys_sp2019)
+6. Finding and reading scientific literature
+7. Topic input survey
 
 ## Homework
 * Navigate to course website and familiarize yourself with the structure.
@@ -27,3 +27,6 @@ and Web of Science (through the [TTU libraries](https://www.depts.ttu.edu/librar
 
 ## In-class notes
 * (placeholder for any in-class notes)
+
+## Post class notes
+* (placeholder for any post class notes)
