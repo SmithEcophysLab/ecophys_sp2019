@@ -10,8 +10,9 @@
 2. Pre-class "quiz" and discussion
 3. Course structure, goals, and [syllabus](../Syllabus)
 4. Discussion of semester outlook
-5. [Course website](https://github.com/SmithEcophysLab/ecophys_sp2019)
-6. Finding and reading scientific literature
+5. Topic input questionnaire
+6. [Course website](https://github.com/SmithEcophysLab/ecophys_sp2019)
+7. Finding and reading scientific literature
 
 ## Homework
 * Navigate to course website and familiarize yourself with the structure.
