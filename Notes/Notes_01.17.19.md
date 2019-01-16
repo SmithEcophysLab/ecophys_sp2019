@@ -7,10 +7,10 @@
 
 ## Agenda
 1. Introductions
-2. Pre-class "quiz" and discussion
+2. Pre-class questionnaire and discussion
 3. Course structure, goals, and [syllabus](../Syllabus)
 4. Discussion of semester outlook
-5. Topic input questionnaire
+5. Topic input
 6. [Course website](https://github.com/SmithEcophysLab/ecophys_sp2019)
 7. Finding and reading scientific literature
 
