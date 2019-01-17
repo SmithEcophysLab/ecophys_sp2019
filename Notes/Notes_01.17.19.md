@@ -26,7 +26,7 @@ and Web of Science (through the [TTU libraries](https://www.depts.ttu.edu/librar
 * Buy book(s) (optional).
 
 ## In-class notes
-* (placeholder for any in-class notes)
+* Add James Morel to email list
 
 ## Post class notes
 * (placeholder for any post class notes)
