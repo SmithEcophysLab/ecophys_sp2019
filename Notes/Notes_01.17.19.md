@@ -30,12 +30,17 @@ and Web of Science (through the [TTU libraries](https://www.depts.ttu.edu/librar
 
 ## Post class notes
 * Additional topics of interest (# mentions)
-	*Gardening tips (2)
-	*Salt (1)
-	*Restoration (1)
-	*Oxygen production (1)
-	*Interactions with humans (1)
-	*Parasites (1)
-	*Plant ID (1)
-	*Plant medication (1)
-*Students range from undergraduate freshmen to PhD
+    * Gardening tips (2)
+    * Salt (1)
+	* Restoration (1)
+	* Oxygen production (1)
+	* Interactions with humans (1)
+	* Parasites (1)
+	* Plant ID (1)
+	* Plant medication (1)
+* Students range from undergraduate freshmen to PhD
+	* UG Freshman: 1
+	* UG Junior: 2
+	* UG Senior: 10
+	* Masters: 3
+	* PhD: 4
