@@ -29,4 +29,10 @@ and Web of Science (through the [TTU libraries](https://www.depts.ttu.edu/librar
 * Add James Morel to email list
 
 ## Post class notes
-* (placeholder for any post class notes)
+* Additional topics of interest (# mentions)
+	*Gardening tips (2)
+	*Salt (1)
+	*Restoration (1)
+	*Oxygen production (1)
+	*Interactions with humans (1)
+	*Parasites (1)
