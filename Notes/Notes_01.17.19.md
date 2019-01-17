@@ -36,3 +36,6 @@ and Web of Science (through the [TTU libraries](https://www.depts.ttu.edu/librar
 	*Oxygen production (1)
 	*Interactions with humans (1)
 	*Parasites (1)
+	*Plant ID (1)
+	*Plant medication (1)
+*Students range from undergraduate freshmen to PhD
