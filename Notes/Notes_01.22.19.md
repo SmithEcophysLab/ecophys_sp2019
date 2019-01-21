@@ -6,9 +6,10 @@
 * Think about the importance plant ecophysiology research
 
 ## Agenda
-1. Course structure and materials recap and discussion
+1. Open time for questions on course structure and materials
 2. Weekly topic discussion: pick weekly topics and choose topic leaders
-3. Discuss: What are the outstanding *and important* questions in plant ecophysiology?
+3. Small group discussion: What are the outstanding *and important* 
+questions in plant ecophysiology?
 Why are these important?
 4. Lecture: "What is Plant Ecophysiology?"
 5. Discussion of Chapin (2003) (Lead: Nick)
