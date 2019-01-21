@@ -7,11 +7,11 @@
 
 ## Agenda
 1. Course structure and materials recap and discussion
-2. Lecture: "What is Plant Ecophysiology?"
+2. Weekly topic discussion: pick weekly topics and choose topic leaders
 3. Discuss: What are the outstanding *and important* questions in plant ecophysiology?
 Why are these important?
-4. Discussion of Chapin (2003) (Lead: Nick)
-5. Pick weekly topics and choose topic leaders
+4. Lecture: "What is Plant Ecophysiology?"
+5. Discussion of Chapin (2003) (Lead: Nick)
 
 ## Homework
 * Read Reich (2014). The full citation and link can be found in the 
