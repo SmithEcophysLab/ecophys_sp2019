@@ -1,6 +1,7 @@
 # Notes for class on January 22, 2019
 
 ## Objectives
+* Choose weekly topic leaders
 * Introduce plant physiology and plant ecology
 * Discuss how plant ecophysiology influences larger scale processes
 * Think about the importance plant ecophysiology research
