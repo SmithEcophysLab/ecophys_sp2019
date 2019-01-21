@@ -17,6 +17,9 @@ Why are these important?
 4. Lecture: "What is Plant Ecophysiology?"
 	- [slides](../Lecture_Slides/01.22.19_what_is_ecophysiology.pdf)
 5. Discussion of Chapin (2003) (Lead: Nick)
+6. Chat about class on Thursday
+	- Reich's plant traits manifesto
+	- Interest in learning about plant trait databases (e.g., BIEN, TRY)?
 
 ## Homework
 * Read Reich (2014). The full citation and link can be found in the 
