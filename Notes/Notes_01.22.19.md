@@ -8,11 +8,12 @@
 ## Agenda
 1. Open time for questions on course structure and materials
 2. Weekly topic discussion: pick weekly topics and choose topic leaders
-	- [sheet for inputting leads](../Miscellaneous/topic_input/topic_leads.md)
+	- [file for inputting and storing leads](../Miscellaneous/topic_input/topic_leads.md)
 3. Small group discussion: What are the outstanding *and important* 
 questions in plant ecophysiology?
 Why are these important?
 4. Lecture: "What is Plant Ecophysiology?"
+	- [slides](../Lecture_slides/01.22.19_what_is_ecophysiology.pdf)
 5. Discussion of Chapin (2003) (Lead: Nick)
 
 ## Homework
