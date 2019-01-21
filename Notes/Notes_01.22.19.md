@@ -13,7 +13,7 @@
 questions in plant ecophysiology?
 Why are these important?
 4. Lecture: "What is Plant Ecophysiology?"
-	- [slides](../Lecture_slides/01.22.19_what_is_ecophysiology.pdf)
+	- [slides](../Lecture_Slides/01.22.19_what_is_ecophysiology.pdf)
 5. Discussion of Chapin (2003) (Lead: Nick)
 
 ## Homework
