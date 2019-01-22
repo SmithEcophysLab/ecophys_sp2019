@@ -16,23 +16,23 @@ undergraduates can lead in groups of 3-4
 11. Scaling (May 2) - 
 
 ## Choosing order (determined by random number generation)
-1. Jose Estrada
-2. Joshua Sundgren
-3. Luis Perez
-4. Jenna Hefele
-5. Risa McNellis
-6. Matthew Brym
-7. Minghao Guo
-8. Weston Beaird
-9. Nan Hu
-10. Ryan Tijerina
-11. William Webb
-12. Zhiyuan Liu
-13. Madison Valdez
-14. Jeffrey Carruth
-15. Evan Perkowski
-16. James Morel
-17. Carson Berglund
-18. Javier Jurado
-19. Amanda Pinal
-20. Leah Ortiz
+1. Jose Estrada (UG)
+2. Joshua Sundgren (UG)
+3. Luis Perez (UG)
+4. Jenna Hefele (UG)
+5. Risa McNellis (G)
+6. Matthew Brym (G)
+7. Minghao Guo (G)
+8. Weston Beaird (UG)
+9. Nan Hu (G)
+10. Ryan Tijerina (UG)
+11. William Webb (UG)
+12. Zhiyuan Liu (G)
+13. Madison Valdez (UG)
+14. Jeffrey Carruth (UG)
+15. Evan Perkowski (G)
+16. James Morel (G)
+17. Carson Berglund (UG)
+18. Javier Jurado (UG)
+19. Leah Ortiz (UG)
+20. Yomna Darwish (UG)
