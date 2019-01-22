@@ -3,16 +3,16 @@
 Graduate students will need to lead one section solo;
 undergraduates can lead in groups of 3-4
 
-1. Light (Feb 7) - 
-2. Temperature (Feb 14) - 
-3. Water *(including drought/salt)* (Feb 21) - 
-4. CO2 (Feb 28) - 
-5. Nutrients (Mar 7) - 
-6. Growth/allocation (Mar 21) - 
-7. Life cycles/ontogeny/phenology (Apr 4) - 
-8. Competition *(including restoration)* (Apr 11) - 
-9. Symbioses *and other biotic interactions* (Apr 18) - 
-10. Decomposition (Apr 25) - 
+1. Light (Feb 7) - Madison
+2. Temperature (Feb 14) - Minghao
+3. Water *(including drought/salt)* (Feb 21) - Zhiyuan
+4. CO2 (Feb 28) - Risa
+5. Nutrients (Mar 7) - Nan
+6. Growth/allocation (Mar 21) - Jenna, Carson, Leah
+7. Life cycles/ontogeny/phenology (Apr 4) - Evan
+8. Competition *(including restoration)* (Apr 11) - Matt, Ryan, Javier
+9. Symbioses *and other biotic interactions* (Apr 18) - Josh, Weston, Jeff
+10. Decomposition (Apr 25) - William, Yomna
 11. Scaling (May 2) - 
 
 ## Choosing order (determined by random number generation)
