@@ -14,7 +14,7 @@ and is geared towards users that are not familiar with the Git environment.
 ## What are these weird file extensions?
 You may notice that some of the file extensions are unfamiliar.
 Here are some of the more common ones, with descriptions of what they mean:
-- .md : These are Markdown files. The are light-weight (see: small) files
+- **.md** : These are Markdown files. The are light-weight (see: small) files
 designed to display simple text. The simplicity of the plain text allows for files to
 be easily read, written, and tracked via version control. They are most similar to
 .html files, but simpler. When opened in GitHub, these will display in their formatted
@@ -25,25 +25,25 @@ use the software [Markdown](https://daringfireball.net/projects/markdown/).
 There is also a 
 [Google Chrome plugin](https://chrome.google.com/webstore/detail/markdown-preview/jmchmkecamhbiokiopfpnfgbidieafmd?hl=en)
 for viewing formatted .md files. Various text editors also include a .md preview feature.
-- .html : These are html files and are what webpages are written in.
+- **.html** : These are html files and are what webpages are written in.
 You can use a text editor to view the raw code or a browser (e.g., Chrome, Firefox)
 to view the formatted version.
-- .R : These are files read by the software "R". R was originally developed as
+- **.R** : These are files read by the software "R". R was originally developed as
 software for doing data analysis, but can now do a variety of things from visualizations,
 file formatting, presentation creations, and much more. To open and run these files, you
 will need to download R from the [software homepage](https://www.r-project.org/).
 You may also find it useful to download [R studio](https://www.rstudio.com/), which
 provides additional tools as well as a more user-friendly environment.
-- .Rmd : These are R markdown files and are used for making nicely formatted version of
+- **.Rmd** : These are R markdown files and are used for making nicely formatted version of
 R code that include results. The files created by R markdown are typically .html or .pdf.
 You may see these in cases where R code is being presented. The files can be opened
 using R studio (see above).
-- .pdf : you got those right? These should be easily viewable with
+- **.pdf** : you got those right? These should be easily viewable with
 software typically preloaded onto most computers, such as Adobe Acrobat or Preview (Mac).
-- .pptx : Powerpoint files that can be opened using Microsoft Powerpoint.
+- **.pptx** : Powerpoint files that can be opened using Microsoft Powerpoint.
 You will not need to access these files as they will all be converted to .pdf
 after they are created (or edited).
-- .tex : These are latex files that can be opened with a text editor. They are
+- **.tex** : These are latex files that can be opened with a text editor. They are
 used to create formatted text documents (typically pdfs). Conceptually, they are somewhat
 analogous to Microsoft Word documents. You will not need to read .tex files as these will
 all be formatted and converted to .pdf after they are edited.
