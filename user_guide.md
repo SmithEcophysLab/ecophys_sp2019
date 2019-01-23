@@ -3,7 +3,7 @@
 ## Introduction
 The purpose of this repository is to provide all the material you will need to be
 successful in this class. This includes the syllabus, daily notes, 
-and links to reading material as well as slides and tools used for the class.
+and links to reading material as well as slides and tools.
 All changes to the documents (including additions and subtractions) are actively tracked
 and previous versions of documents can be accessed if needed.
 The GitHub environment also provides an avenue for you to post your own documents or
@@ -51,7 +51,7 @@ all be formatted and converted to .pdf after they are edited.
 Note: if you have trouble opening any files on your machine, please let Nick know and
 he can get you sorted out.
 
-## How do I download individul files without using Git?
+## How do I download individual files without using Git?
 For .pdf and .pptx files:
 1. From the GitHub page, click on the file you want to download.
 2. Click the "Download" button near the top of the file.
@@ -118,5 +118,8 @@ You can provide feedback by opening an issue! To do this, navigate to the
 [Issues](https://github.com/SmithEcophysLab/ecophys_sp2019/issues)
 tab. Your issue will be visible to Nick and the members of the course and responses
 to the issue can be made directly.
+
+If you are an advanced Git user, you are also welcome to make code changes to any files
+or add/delete documents and provide push requests.
 
 
