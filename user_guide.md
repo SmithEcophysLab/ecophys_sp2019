@@ -78,7 +78,7 @@ put the repository E.g.,
 	
 	> cd ~/Documents/Git
 
-	Then, use the `git clone` command to clone the respository. E.g.,
+	Then, use the `git clone` command to clone the repository. E.g.,
 	
 	> git clone https://github.com/SmithEcophysLab/ecophys_sp2019.git
 	
