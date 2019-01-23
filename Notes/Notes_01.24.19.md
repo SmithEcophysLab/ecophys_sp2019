@@ -5,10 +5,11 @@
 * Learn about large-scale plant trait research
 
 ## Agenda
-1. Mini-quiz, including TPS and discussion
-2. Time for followup discussion of Chapin (2003) (see point below)
-3. Discussion of Reich (2014) (Lead: Nick)
-4. Introduction to the Botanical Information and Ecology Network (BIEN) and TRY
+1. Discuss [user_guide.md](../user_guide.md)
+2. Mini-quiz, including TPS and discussion
+3. Time for followup discussion of Chapin (2003) (see point below)
+4. Discussion of Reich (2014) (Lead: Nick)
+5. Introduction to plant trait databases/sets
 
 ## Undiscussed points from Chapin (2003)
 Paraphrased from questions turned in:
