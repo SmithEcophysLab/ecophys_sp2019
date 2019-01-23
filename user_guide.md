@@ -51,7 +51,7 @@ all be formatted and converted to .pdf after they are edited.
 Note: if you have trouble opening any files on your machine, please let Nick know and
 he can get you sorted out.
 
-## How do I download files without using Git?
+## How do I download individul files without using Git?
 For .pdf and .pptx files:
 1. From the GitHub page, click on the file you want to download.
 2. Click the "Download" button near the top of the file.
@@ -62,6 +62,19 @@ For .md, .R, .Rmd, .html, and .tex files:
 2. Right click on the "Raw" button near the top of the file and choose "Save Link As..."
 3. Choose the location where you'd like to save the file.
 4. Open the file using the desired software.
+
+## How do I download the entire repository without using Git (not recommended)?
+1. Navigate the 
+[main course directory](https://github.com/SmithEcophysLab/ecophys_sp2019).
+2. Click the green button that says `Clone or Download`.
+3. Click `Download Zip`. A .zip file should begin downloading.
+4. Double click on the file to unzip in your downloads folder (or wherever you want to 
+house the file) to unzip.
+5. Everything should be there.
+
+**Note: the files you downloaded will not change if files are changed during the course
+(and they will!). As such, downloading the entire repository in this manner is not 
+recommended.**
 
 ## How do I download files using Git?
 1. Before using Git, you will need to install it on your machine. Check out this website
@@ -83,6 +96,22 @@ put the repository E.g.,
 	> git clone https://github.com/SmithEcophysLab/ecophys_sp2019.git
 	
 	Now the full repository should be downloaded in a new folder.
+	
+3. To make sure you have the most up-to-date version of the files from the main repository,
+you will can run the command `git status` from the command line within your cloned
+repository. E.g.,
+
+> cd ~/Documents/Git/ecophys_sp19
+
+> git status
+
+4. If you are not up to date, you can run the command `git pull` from the main repository
+and this will pull
+in all the new changes to the repository.
+
+> cd ~/Documents/Git/ecophys_sp19
+
+> git pull
 
 ## How do I provide feedback about folders or files?
 You can provide feedback by opening an issue! To do this, navigate to the
