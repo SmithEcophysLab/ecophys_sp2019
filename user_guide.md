@@ -102,6 +102,7 @@ you will can run the command `git status` from the command line within your clon
 repository. E.g.,
 
 	> cd ~/Documents/Git/ecophys_sp19
+	
 	> git status
 
 4. If you are not up to date, you can run the command `git pull` from the main repository
@@ -109,6 +110,7 @@ and this will pull
 in all the new changes to the repository.
 
 	> cd ~/Documents/Git/ecophys_sp19
+	
 	> git pull
 
 ## How do I provide feedback about folders or files?
