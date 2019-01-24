@@ -3,7 +3,7 @@
 Graduate students will need to lead one section solo;
 undergraduates can lead in groups of 3-4
 
-1. Light (Feb 7) - Madison, (open), (open)
+1. Light (Feb 7) - Madison, Noel, (open)
 2. Temperature (Feb 14) - Minghao
 3. Water *(including drought/salt)* (Feb 21) - Zhiyuan
 4. CO2 (Feb 28) - Risa
@@ -12,7 +12,7 @@ undergraduates can lead in groups of 3-4
 7. Life cycles/ontogeny/phenology (Apr 4) - Evan
 8. Competition *(including restoration)* (Apr 11) - Matt, Ryan, Javier
 9. Symbioses *and other biotic interactions* (Apr 18) - Josh, Weston, Jeff
-10. Decomposition (Apr 25) - William, Yomna, (open)
+10. Decomposition (Apr 25) - William, Yomna, Thalia
 11. Scaling (May 2) - James
 
 ## Choosing order (determined by random number generation)
