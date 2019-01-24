@@ -11,6 +11,7 @@
 4. Discussion of Reich (2014) (Lead: Nick)
 	- [Discussion slides](../Readings/Discussion_slides/week1_Reich2014.pdf)
 5. Introduction to plant trait databases/sets
+	- [In class slides](../Tools/trait_data/accessing_trait_data.pdf)
 
 ## Undiscussed points from Chapin (2003)
 Paraphrased from questions turned in:
