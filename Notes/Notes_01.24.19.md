@@ -25,6 +25,8 @@ then why is there a booming oil market now? (Madison)
 ## Homework
 * Read Von Caemmerer and Farquhar (1981). The full citation and link can be found in the 
 [Readings](../Readings) folder.
+* Start thinking about your deliverable idea. 
+What types of interesting questions could you ask with the available trait databases/sets?
 
 ## In-class notes
 * (placeholder for any in-class notes)
