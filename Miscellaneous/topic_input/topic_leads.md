@@ -3,7 +3,7 @@
 Graduate students will need to lead one section solo;
 undergraduates can lead in groups of 3-4
 
-1. Light (Feb 7) - Madison, Noel, (open)
+1. Light (Feb 7) - Madison, Noel, Luis
 2. Temperature (Feb 14) - Minghao
 3. Water *(including drought/salt)* (Feb 21) - Zhiyuan
 4. CO2 (Feb 28) - Risa
