@@ -9,6 +9,7 @@
 2. Mini-quiz, including TPS and discussion
 3. Time for followup discussion of Chapin (2003) (see point below)
 4. Discussion of Reich (2014) (Lead: Nick)
+	- [Discussion slides](../Readings/Discussion_slides/week1_Reich2014.pdf)
 5. Introduction to plant trait databases/sets
 
 ## Undiscussed points from Chapin (2003)
