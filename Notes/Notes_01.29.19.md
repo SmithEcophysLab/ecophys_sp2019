@@ -6,8 +6,9 @@
 * Introduce plant trait databases
 
 ## Agenda
-1. Discuss changes to [topic_leads_.md](../topic_leads.md)
-2. Grade Nick's leading last week
+1. Discuss changes to [topic_leads_.md](../Topic_leads/topic_leads.md)
+2. Discuss [topic_lead_rubric.md](../Rubrics/topic_lead_rubric.md)
+	- How'd Nick do last week?
 3. Lecture on plant gas exchange basics
 4. Introduction to plant trait databases/sets
 	- [In class slides](../Tools/trait_data/accessing_trait_data.pdf)
