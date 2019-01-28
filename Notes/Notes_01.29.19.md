@@ -9,11 +9,13 @@
 1. Discuss changes to [topic_leads_.md](../Topic_leads/topic_leads.md)
 2. Discuss [topic_lead_rubric.md](../Rubrics/topic_lead_rubric.md)
 	- How'd Nick do last week?
-3. Lecture on plant gas exchange basics
+3. Note that pages numbers for Lambers, Chapin, and Pons are added to the schedule
+in the syllabi
+4. Lecture on plant gas exchange basics
 	- [Link to slides](../Lecture_Slides/01.29.19_gas_exchange.pdf)
-4. Discussion of Von Caemmerer and Farquhar (1981) (Lead: Nick)
+5. Discussion of Von Caemmerer and Farquhar (1981) (Lead: Nick)
 	- [Link to discussion notes](../Readings/Discussion_notes/Discussion_notes_01.29.19.md)
-5. Introduction to plant trait databases/sets (time permitting)
+6. Introduction to plant trait databases/sets (time permitting)
 	- [In class slides](../Tools/trait_data/accessing_trait_data.pdf)
 
 ## Homework
