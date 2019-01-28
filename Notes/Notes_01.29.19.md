@@ -15,7 +15,6 @@
 5. Introduction to plant trait databases/sets (time permitting)
 	- [In class slides](../Tools/trait_data/accessing_trait_data.pdf)
 
-
 ## Homework
 * Read Smith and Dukes (2018). The full citation and link can be found in the 
 [Readings](../Readings) folder. The pdf can be found on BlackBoard.
