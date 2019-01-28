@@ -10,14 +10,15 @@
 2. Discuss [topic_lead_rubric.md](../Rubrics/topic_lead_rubric.md)
 	- How'd Nick do last week?
 3. Lecture on plant gas exchange basics
-4. Introduction to plant trait databases/sets
+	- [Link to slides](../Lecture_Slides/01.29.19_gas_exchange.pdf)
+4. Discussion of Von Caemmerer and Farquhar (1981) (Lead: Nick)
+5. Introduction to plant trait databases/sets (time permitting)
 	- [In class slides](../Tools/trait_data/accessing_trait_data.pdf)
-5. Discussion of Von Caemmerer and Farquhar (1981) (Lead: Nick)
 
 
 ## Homework
 * Read Smith and Dukes (2018). The full citation and link can be found in the 
-[Readings](../Readings) folder.
+[Readings](../Readings) folder. The pdf can be found on BlackBoard.
 * Start thinking about your deliverable idea. 
 What types of interesting questions could you ask with the available trait databases/sets?
 
