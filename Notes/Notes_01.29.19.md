@@ -6,16 +6,17 @@
 * Introduce plant trait databases
 
 ## Agenda
-1. Discuss changes to [topic_leads_.md](../Topic_leads/topic_leads.md)
-2. Discuss [topic_lead_rubric.md](../Rubrics/topic_lead_rubric.md)
+1. Announcement: special guest on April 11th ([Aimée Classen](https://classenlab.com/))
+2. Discuss changes to [topic_leads_.md](../Topic_leads/topic_leads.md)
+3. Discuss [topic_lead_rubric.md](../Rubrics/topic_lead_rubric.md)
 	- How'd Nick do last week?
-3. Note that pages numbers for Lambers, Chapin, and Pons are added to the schedule
+4. Note that pages numbers for Lambers, Chapin, and Pons are added to the schedule
 in the syllabi
-4. Lecture on plant gas exchange basics
+5. Lecture on plant gas exchange basics
 	- [Link to slides](../Lecture_Slides/01.29.19_gas_exchange.pdf)
-5. Discussion of Von Caemmerer and Farquhar (1981) (Lead: Nick)
+6. Discussion of Von Caemmerer and Farquhar (1981) (Lead: Nick)
 	- [Link to discussion notes](../Readings/Discussion_notes/Discussion_notes_01.29.19.md)
-6. Introduction to plant trait databases/sets (time permitting)
+7. Introduction to plant trait databases/sets (time permitting)
 	- [In class slides](../Tools/trait_data/accessing_trait_data.pdf)
 
 ## Homework
