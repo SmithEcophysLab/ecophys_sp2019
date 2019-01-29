@@ -29,4 +29,5 @@ What types of interesting questions could you ask with the available trait datab
 * (placeholder for any in-class notes)
 
 ## Post class notes
-* (placeholder for any post class notes)
+* Many class questions from the reading are related to C3/C4 differences
+* Reading was a little tough without background information
