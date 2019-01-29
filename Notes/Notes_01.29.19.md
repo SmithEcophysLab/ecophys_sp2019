@@ -7,7 +7,7 @@
 
 ## Agenda
 1. Announcement: special guest on April 11th ([Aimée Classen](https://classenlab.com/))
-2. Discuss changes to [topic_leads_.md](../Topic_leads/topic_leads.md)
+2. Discuss changes to [topic_leads.md](../topic_leads/topic_leads.md)
 3. Discuss [topic_lead_rubric.md](../Rubrics/topic_lead_rubric.md)
 	- How'd Nick do last week?
 4. Note that pages numbers for Lambers, Chapin, and Pons are added to the schedule
