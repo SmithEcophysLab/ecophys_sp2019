@@ -34,4 +34,5 @@ What types of interesting questions could you ask with the available trait datab
 * (placeholder for any in-class notes)
 
 ## Post class notes
-* (placeholder for any post class notes)
+* Not enough time for Reich discussion or trait database information
+* Post mini-quiz discussion in pairs went well; full class discussion was a bit stale

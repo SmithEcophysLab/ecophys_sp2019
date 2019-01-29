@@ -29,4 +29,4 @@ Why are these important?
 * (placeholder for any in-class notes)
 
 ## Post class notes
-* (placeholder for any post class notes)
+* Lots to discuss from Chapin paper, but not everything was perfectly understood
