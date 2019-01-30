@@ -22,4 +22,5 @@ mtext(side = 1, expression('Soil N' * ' (mM nitrate)'), line = 3, cex = 1)
 axis(1, seq(0, 20, 5))
 axis(2, seq(0, 30, 10), las = 1, labels = F)
 
-
+mtext(side = 2, expression('Photosynthesis (µmol m'^'-2' * ' s'^'-1' * ')'),
+      outer = T, las = 3, cex = 1.5, line = 0.8)
