@@ -5,11 +5,12 @@
 * Introduce plant trait databases and their uses in plant trait research
 
 ## Agenda
-1. Time for questions and discussion about plant physiological processes
-2. Discussion of Smith and Dukes (2018)
-3. Introduction to plant trait databases/sets (time permitting)
+1. Mini-quiz 2
+2. Time for questions and discussion about plant physiological processes
+3. Discussion of Smith and Dukes (2018)
+4. Introduction to plant trait databases/sets (time permitting)
 	- [In class slides](../Tools/trait_data/accessing_trait_data.pdf)
-4. Deliverable brainstorm (who's got ideas?!?)
+5. Deliverable brainstorm (who's got ideas?!?)
 
 ## Homework
 * Read Boardman (1977). The full citation and link can be found in the 
