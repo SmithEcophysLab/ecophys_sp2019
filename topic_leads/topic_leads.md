@@ -15,4 +15,4 @@ Note: lead were changed slightly to accomodate new students (Jan 25)
 8. Competition (Apr 11) - Ryan, Javier, Asha
 9. Symbioses *and other biotic interactions* (Apr 18) - Josh, Weston, Jeff
 10. Decomposition (Apr 25) - William, Yomna, Thalia
-11. Scaling (May 2) - Matt, James(?)
+11. Scaling (May 2) - Matt, James
