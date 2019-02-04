@@ -24,4 +24,7 @@ What types of interesting questions could you ask with the available trait datab
 * (placeholder for any in-class notes)
 
 ## Post class notes
-* (placeholder for any post class notes)
+* Good discussion following the Mini-quiz
+* Discussion of Smith and Dukes went well, particularly the "where is photosynthesis the 
+greatest" (lots of different ideas!)
+* Only enough time to briefly introduce the trait databases
