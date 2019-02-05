@@ -24,4 +24,6 @@ What types of interesting questions could you ask with the available trait datab
 * (placeholder for any in-class notes)
 
 ## Post class notes
-* (placeholder for any post class notes)
+* Lecture was a bit long. Only left ~10 minutes for Boardman discussion.
+* Did not get to the deliverable brainstorm.
+* Test the CANTRIP hypotheses for Thursday?
