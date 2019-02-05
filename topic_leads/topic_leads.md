@@ -13,6 +13,6 @@ Note: lead were changed slightly to accomodate new students (Jan 25)
 6. Growth/allocation (Mar 21) - Jenna, Carson, Leah
 7. Life cycles/ontogeny/phenology (Apr 4) - Evan
 8. Competition (Apr 11) - Ryan, Javier, Asha
-9. Symbioses *and other biotic interactions* (Apr 18) - Josh, Weston, Jeff
+9. Symbioses *and other biotic interactions* (Apr 18) - Josh, Weston, Jeff, Jimmy
 10. Decomposition (Apr 25) - William, Yomna, Thalia
 11. Scaling (May 2) - Matt, James
