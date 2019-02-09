@@ -8,10 +8,12 @@
 of biosphere-atmosphere C exchange
 
 ## Agenda
-1. Big question 1: How does temperature vary in natural ecosystems?
-2. Big question 2: Why does temperature variation matter for plants?
-3. Lecture on temperature
-3. Discussion of Atkin and Tjoelker (2003)
+1. Lecture on temperature
+	- Class question 1: How does temperature vary in natural ecosystems?
+	- Class question 2: Why does temperature variation matter for plants?
+	- Class question 3: Should we care?
+2. Additional time for discussion of Atkin and Tjoelker (2003)
+3. Time for more deliverable brainstorming
 
 ## Homework
 * Read Saenz et al. (2018). The full citation and link can be found in the 
