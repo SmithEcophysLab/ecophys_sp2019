@@ -21,4 +21,5 @@
 * (placeholder for any in-class notes)
 
 ## Post class notes
-* (placeholder for any post class notes)
+* Had 15 minutes for deliverable brainstorms
+* No mini-quiz
