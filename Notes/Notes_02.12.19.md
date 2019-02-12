@@ -8,16 +8,17 @@
 of biosphere-atmosphere C exchange
 
 ## Agenda
-1. Lecture on temperature
+1. Note on assessments
+2. Lecture on temperature
 	- Class question 1: How does temperature vary in natural ecosystems?
 	- Class question 2: Why does temperature variation matter for plants?
 	- Class question 3: Should we care?
 	- [Lecture slides](../Lecture_Slides/02.12.19_temperature.pdf)
-2. Additional time for discussion of Atkin and Tjoelker (2003)
+3. Additional time for discussion of Atkin and Tjoelker (2003)
 	- [Discussion slides](../Readings/Discussion_slides/week4_Atkin2003.pdf)
-3. Go over deliverable rubric
+4. Go over deliverable rubric
 	- [Link to Rubric](../Rubrics/deliverable_rubric.md)
-4. Time for more deliverable brainstorming
+5. Time for more deliverable brainstorming
 
 ## Homework
 * Read Saenz et al. (2018). The full citation and link can be found in the 
