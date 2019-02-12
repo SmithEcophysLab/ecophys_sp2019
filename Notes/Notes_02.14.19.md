@@ -8,6 +8,8 @@
 ## Agenda
 1. Mini-quiz on plant-temperature responses
 2. Discussion of Saenz (2018)
+3. Time for deliverable brainstorming
+	- Did your idea change now that you have a rubric?
 
 ## Homework
 * Read Chaves et al. (2002). The full citation and link can be found in the 
