@@ -29,4 +29,5 @@ of biosphere-atmosphere C exchange
 * (placeholder for any in-class notes)
 
 ## Post class notes
-* (placeholder)
+* Did not have time for deliverable brainstorming
+* Building response curves on the board seemed to go well
