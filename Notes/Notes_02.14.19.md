@@ -8,6 +8,8 @@
 ## Agenda
 1. Mini-quiz on plant-temperature responses
 2. Discussion of Saenz (2018)
+	- TTU faculty doing similar research: 
+	[https://natasjavgestel.github.io/blog/](https://natasjavgestel.github.io/blog/)
 3. Time for deliverable brainstorming
 	- Did your idea change now that you have a rubric?
 
