@@ -22,4 +22,6 @@
 * (placeholder for any in-class notes)
 
 ## Post class notes
-* (placeholder)
+* Mini-quiz discussion was alright
+	- third question was best
+* No time for deliverable workshopping
