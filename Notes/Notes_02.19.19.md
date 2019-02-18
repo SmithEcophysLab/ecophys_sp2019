@@ -12,7 +12,7 @@
 	- Any similar ideas across the class?
 
 ## Homework
-* Read XXXX. The full citation and link can be found in the 
+* Read Ismail and Horie (2017). The full citation and link can be found in the 
 [Readings](../Readings) folder. The pdf can be found on BlackBoard.
 * Continue thinking about your deliverable!
 
