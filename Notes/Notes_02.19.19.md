@@ -7,6 +7,7 @@
 ## Agenda
 1. Note about Thursday readings: please send me your article at least one week in advance
 2. Lecture on plant-water relations
+	 - [Link to slides](../Lecture_Slides/02.19.19_water.pdf)
 3. Discussion of Chaves et al. (2002)
 4. Time for deliverable brainstorming
 	- Any similar ideas across the class?
