@@ -21,4 +21,4 @@
 * (placeholder for any in-class notes)
 
 ## Post class notes
-* (placeholder)
+* Had time to go over deliverable ideas
