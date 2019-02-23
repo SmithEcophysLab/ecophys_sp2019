@@ -18,4 +18,5 @@
 * (placeholder for any in-class notes)
 
 ## Post class notes
-* (placeholder for post class notes)
+* Mini-quiz discussion was good, but ran a little long.
+* Only 25 minutes for recent literature discussion
