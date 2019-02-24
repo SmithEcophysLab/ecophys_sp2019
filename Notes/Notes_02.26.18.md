@@ -5,10 +5,11 @@
 - Discuss Bazzaz (1990)
 
 ## Agenda
-1. Lecture on plant-CO2 responses
+1. Note that reading for March 5 was changed to Lebauer and Treseder (2008)
+2. Lecture on plant-CO2 responses
 	 - [Link to slides](../Lecture_Slides/02.26.19_CO2.pdf)
-2. Discussion of Bazzaz (1990)
-3. Hypothesis development: tying together global change
+3. Discussion of Bazzaz (1990)
+4. Hypothesis development: tying together global change
 
 ## Homework
 - Read Ainsworth and Long (2005). The full citation and link can be found in the 
