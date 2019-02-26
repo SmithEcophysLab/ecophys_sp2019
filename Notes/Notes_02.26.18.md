@@ -9,7 +9,7 @@
 2. Lecture on plant-CO2 responses
 	 - [Link to slides](../Lecture_Slides/02.26.19_CO2.pdf)
 3. Discussion of Bazzaz (1990)
-4. Hypothesis development: tying together global change
+4. (time permitting) Hypothesis development: tying together global change
 
 ## Homework
 - Read Ainsworth and Long (2005). The full citation and link can be found in the 
@@ -20,4 +20,4 @@
 - (placeholder)
 
 ## Post class notes
-- (placeholder)
+- Jasper Ridge next week
