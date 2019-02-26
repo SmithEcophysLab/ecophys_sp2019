@@ -21,3 +21,5 @@
 
 ## Post class notes
 - Jasper Ridge next week
+- No time for hypothesis stuff
+- Lecture took most of the 80 minutes
