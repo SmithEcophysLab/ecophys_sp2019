@@ -13,7 +13,7 @@
 	- Introduce Jasper Ridge Global Change Experiment
 
 ## Homework
-- Read XXXXXX. The full citation and link can be found in the 
+- Read Yuan and Chen (2015). The full citation and link can be found in the 
 [Readings](../Readings) folder. The pdf can be found on BlackBoard.
 - Continue thinking about your deliverable!
 

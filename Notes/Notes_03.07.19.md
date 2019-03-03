@@ -2,11 +2,11 @@
 
 ## Objectives
 - Continue talking about plant responses to nutrients
-- Discuss XXXX
+- Discuss Yuan and Chen (2015)
 
 ## Agenda
 1. Mini-quiz on plant responses to nutrients + discussion
-2. Discussion of XXXX
+2. Discussion of Yuan and Chen (2015)
 
 ## Homework
 - Read Mooney (1972). The full citation and link can be found in the 
