@@ -6,6 +6,7 @@
 
 ## Agenda
 1. Deliverable proposal discussion and scheduling
+	- [Link to rubric](../Rubrics/deliverable_proposal_rubric.md)
 2. Lecture on plant-nutrient responses
 	 - [Link to slides](../Lecture_Slides/03.05.19_nutrients.pdf)
 3. Discussion of LeBauer and Treseder (2008)
