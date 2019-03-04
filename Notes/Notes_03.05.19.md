@@ -12,6 +12,7 @@
 3. Discussion of LeBauer and Treseder (2008)
 4. Tying together global change
 	- Introduce Jasper Ridge Global Change Experiment
+	- [Link to slides](../Miscellaneous/Jasper_Ridge/Jasper_Ridge.pdf)
 
 ## Homework
 - Read Yuan and Chen (2015). The full citation and link can be found in the 
