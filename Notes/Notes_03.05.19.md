@@ -23,4 +23,5 @@
 - (placeholder)
 
 ## Post class notes
-- (placeholder)
+- Introduced Jasper Ridge and had students develop a hypothesis
+- Did not discuss hypotheses -- save for next class

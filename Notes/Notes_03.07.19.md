@@ -7,6 +7,8 @@
 ## Agenda
 1. Mini-quiz on plant responses to nutrients + discussion
 2. Discussion of Yuan and Chen (2015)
+3. Discuss Jasper Ridge hypotheses
+	- [Link to hypotheses](../Miscellaneous/Jasper_Ridge/Jasper_Ridge_hypotheses.md)
 
 ## Homework
 - Read Mooney (1972). The full citation and link can be found in the 
