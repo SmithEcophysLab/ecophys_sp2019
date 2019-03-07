@@ -3,11 +3,13 @@
 ## Objectives
 - Continue talking about plant responses to nutrients
 - Discuss Yuan and Chen (2015)
+- Tie together global change
 
 ## Agenda
 1. Mini-quiz on plant responses to nutrients + discussion
-2. Discussion of Yuan and Chen (2015)
-3. Discuss Jasper Ridge hypotheses
+2. Some new relevant research is out!
+3. Discussion of Yuan and Chen (2015)
+4. Discuss Jasper Ridge hypotheses
 	- [Link to hypotheses](../Miscellaneous/Jasper_Ridge/Jasper_Ridge_hypotheses.md)
 
 ## Homework
