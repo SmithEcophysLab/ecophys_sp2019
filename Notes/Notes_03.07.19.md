@@ -8,6 +8,7 @@
 ## Agenda
 1. Mini-quiz on plant responses to nutrients + discussion
 2. Some new relevant research is out!
+	- [Link to slides](../Miscellaneous/global_Rubisco/global_Rubisco.pptx)
 3. Discussion of Yuan and Chen (2015)
 4. Discuss Jasper Ridge hypotheses
 	- [Link to hypotheses](../Miscellaneous/Jasper_Ridge/Jasper_Ridge_hypotheses.md)
