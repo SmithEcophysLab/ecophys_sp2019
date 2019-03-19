@@ -24,3 +24,6 @@ The written proposal should include the following aspects:
 ### Oral presentation (suggested length: 5 minutes)
 The oral presentation should succinctly introduce the components of the written proposal.
 Time will be given after the presentation for questions from the audience.
+
+### Due dates
+Week of March 25, exact dates TBD
