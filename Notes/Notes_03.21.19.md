@@ -3,7 +3,6 @@
 ## Objectives
 - Continue discussing plant growth and allocation
 - Discuss Fraterringo et al. (2006)
-- Plan proposal presentations
 
 ## Agenda
 1. Miniquiz on plant allocation

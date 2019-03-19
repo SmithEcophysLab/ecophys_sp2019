@@ -19,7 +19,7 @@
 - Prepare for your deliverable proposal
 
 ## In-class notes
-- (placeholder)
+- Grads present on Mar 26, undergrads on Mar 28
 
 ## Post class notes
-- (placeholder)
+- No time for Source/Sink discussion (save for next week??)
