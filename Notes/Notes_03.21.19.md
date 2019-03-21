@@ -5,8 +5,9 @@
 - Discuss Fraterringo et al. (2006)
 
 ## Agenda
-1. Miniquiz on plant allocation
-2. Discussion of Fraterringo (2006)
+1. Note about sending deliverable titles (see email sent on Mar. 21 at 7:30 AM)
+2. Miniquiz on plant allocation
+3. Discussion of Fraterrigo (2006)
 
 ## Homework
 - Prepare for your deliverable proposal
