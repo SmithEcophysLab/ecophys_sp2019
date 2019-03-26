@@ -40,3 +40,15 @@ Plants mitigating human disease
 Does sex allocation result in clonal size differences in the dioecious plant Salix exigua?
 
 \vskip 1.8in
+
+### Weston Beaird
+Measuring the analytical differences of plants grown in different scientific 
+manners and how they relate to each other as a whole
+
+\pagebreak
+
+### Ryan Tijerina
+Increased atmospheric CO2 availability for plants 
+vs. Negative effects of CO2 induced temperature increases
+
+\vskip 1.8in
