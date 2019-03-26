@@ -3,41 +3,40 @@
 
 ## Your Name: ___________________________________
 
-<br>
-<br>
+\vskip 0.2in
 
 ### Leah Ortiz
 Mesquite microhabitat effects
 
-\vskip 1.5in
+\vskip 1.8in
 
 ### Thalia Vazquez and Asha Worsham
 Implications of Nitrogen Nutrition for Grapes, Fermentation, and Wine
 
-\vskip 1.5in
+\pagebreak
 
 ### Luis Perez, Madison Valdez, and Noel Estrada
 An Analysis of Aloe Vera Organic and Inorganic Resource Allocation in Response 
 to Various Environmental Factors
 
-\pagebreak
+\vskip 1.8in
 
 ### Joshua Sundgren
 A Literature Review of the Strategies and Adaptations of Cacti
 
-\vskip 1.5in
+\vskip 1.8in
 
 ### Jeffrey Carruth
 Plant responses to pathogens in a changing environment
 
-\vskip 1.5in
+\pagebreak
 
 ### Jenna Hefele and Carson Berglund
 Plants mitigating human disease
 
-\vskip 1.5in
+\vskip 1.8in
 
 ### Nan Hu
 Does sex allocation result in clonal size differences in the dioecious plant Salix exigua?
 
-\pagebreak
+\vskip 1.8in
