@@ -52,3 +52,21 @@ Increased atmospheric CO2 availability for plants
 vs. Negative effects of CO2 induced temperature increases
 
 \vskip 1.8in
+
+### Jimmy Duenez
+The potential causes & consequences of decreased biodiversity both visibly in flora and 
+fauna as well as ecologically 
+
+\vskip 1.8in
+
+### Javier Jurado
+Plant-insect interactions: Eco physiological consequences of herbivores 
+
+\pagebreak
+
+### James Morel
+Echinochloa and Polygonum spp:
+A review of desirable plant traits between a native and non-native plant species 
+commonly used in waterfowl habitat management
+
+\vskip 1.8in
