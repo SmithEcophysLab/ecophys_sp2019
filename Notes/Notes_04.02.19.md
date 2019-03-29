@@ -5,9 +5,13 @@
 
 ## Agenda
 1. End of semester planning
-	- Will need at least 3 days to complete deliverable presentations
+	- Will need 4 days to complete deliverable presentations
 	- No group leads for Decomposition
-	- Proposal: scrap decomposition and move up scaling week
+	- **Proposal**
+		- scrap decomposition and move up scaling week
+		- Do scaling topic lead on Tuesday, April 23
+		- Start presentations Thursday, April 25
+		- Presentations on April 25, April 30, May 2, & May 7
 2. Finish up proposal presentations
 3. Lecture on phenology
 4. Discussion of Givnish (2002)
