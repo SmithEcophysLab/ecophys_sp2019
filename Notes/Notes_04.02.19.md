@@ -1,7 +1,7 @@
 # Notes for class on April 2, 2019
 
 ## Objectives
-- Discuss life cycles, ontogeny, and phenology
+- Discuss life cycles and phenology
 
 ## Agenda
 1. End of semester planning
@@ -13,7 +13,7 @@
 		- Start presentations Thursday, April 25
 		- Presentations on April 25, April 30, May 2, & May 7
 2. Finish up proposal presentations
-3. Lecture on phenology
+3. Lecture on life cycles phenology
 4. Discussion of Givnish (2002)
 
 ## Homework
