@@ -12,8 +12,9 @@
 		- Do scaling topic lead on Tuesday, April 23
 		- Start presentations Thursday, April 25
 		- Presentations on April 25, April 30, May 2, & May 7
-2. Finish up proposal presentations
+2. Finish up proposal presentations (James)
 3. Lecture on life cycles phenology
+	- [Link to slides](../Lecture_slides/04.02.19_lifecycles_phenology.pdf)
 4. Discussion of Givnish (2002)
 
 ## Homework
