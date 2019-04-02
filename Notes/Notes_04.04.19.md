@@ -4,6 +4,8 @@
 - Continue discussing phenology in the context of global change
 
 ## Agenda
+1. Note about end of semester schedule
+	- [Link to schedule](../EoS_Schedule/EoS_Schedule.md)
 1. Miniquiz 9
 2. Discussion of Wolkovich et al. (2012)
 
