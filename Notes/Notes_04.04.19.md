@@ -6,8 +6,10 @@
 ## Agenda
 1. Note about end of semester schedule
 	- [Link to schedule](../EoS_Schedule/EoS_Schedule.md)
-1. Miniquiz 9
-2. Discussion of Wolkovich et al. (2012)
+2. Finish lecture on phenology
+	- [Link to slides](../Lecture_slides/04.02.19_lifecycles_phenology.pdf)
+3. Miniquiz 9
+4. Discussion of Wolkovich et al. (2012)
 
 ## Homework
 - Read Grime (1977). The full citation and link can be found in the 
