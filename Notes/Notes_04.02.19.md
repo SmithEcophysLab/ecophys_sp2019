@@ -26,4 +26,4 @@
 - (placeholder)
 
 ## Post class notes
-- (placeholder)
+- (Not enough time to get to phenology in the lecture
