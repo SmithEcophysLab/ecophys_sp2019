@@ -9,7 +9,6 @@
 2. Miniquiz 9
 3. Finish lecture on phenology
 	- [Link to slides](../Lecture_slides/04.02.19_lifecycles_phenology.pdf)
-
 4. Discussion of Wolkovich et al. (2012)
 
 ## Homework
