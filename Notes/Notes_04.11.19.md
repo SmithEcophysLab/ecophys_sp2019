@@ -1,13 +1,12 @@
 # Notes for class on April 11, 2019
 
 ## Objectives
-- Discuss competition
+- Discuss plant competition and its relationship to the abiotic and biotic environment
 
 ## Agenda
 1. Meet Aimée Classen
 2. Miniquiz 10
 3. Discussion of Wilson and Tilman (1993)
-4. Additional time for competition discussion
 
 ## Homework
 - Read Wright et al. (1998). The full citation and link can be found in the 
