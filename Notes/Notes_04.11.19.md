@@ -17,4 +17,4 @@
 - (placeholder)
 
 ## Post class notes
-- (placeholder)
+- Miniquiz worked well for introducing topics, but a full lecture would be better
