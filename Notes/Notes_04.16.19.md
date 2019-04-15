@@ -5,11 +5,12 @@
 - Discuss the impact on plant physiology
 
 ## Agenda
-1. End of semester schedule
+1. Current grades up on BlackBoard: discuss
+2. End of semester schedule
 	- Please send presentation date preferences
 	- All readings now up on [schedule](../Readings/readings_ecophys_sp2019.pdf) and BlackBoard
-2. Lecture on plant symbioses
-3. Time to work on deliverable
+3. Lecture on plant symbioses
+4. Time to work on deliverable
 
 ## Homework
 - Read Frederickson et al. (2012). The full citation and link can be found in the 
