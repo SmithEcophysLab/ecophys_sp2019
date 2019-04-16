@@ -11,7 +11,6 @@
 - Thalia Vazquez and Asha Wortham
 - (Open)
 - (Open)
-- (Open)
 
 ## May 2
 - (Open)
