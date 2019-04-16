@@ -24,4 +24,5 @@
 - (placeholder)
 
 ## Post class notes
-- (placeholder)
+- Might be better to frame as mutualism
+- Had ~10 minutes left over for "work on deliverable," but no one participated
