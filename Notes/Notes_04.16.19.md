@@ -8,6 +8,7 @@
 1. Current grades up on BlackBoard: discuss
 2. Possible Fall class of interest: Principles of Terrestrial Ecosystem Ecology (BIOL 4301-029 or BIOL 6301-029)
 2. End of semester schedule
+	- [Link to schedule](../EoS_Schedule/EoS_Schedule.md)
 	- Please send presentation date preferences
 	- All readings now up on [schedule](../Readings/readings_ecophys_sp2019.pdf) and BlackBoard
 3. Lecture on plant symbioses
