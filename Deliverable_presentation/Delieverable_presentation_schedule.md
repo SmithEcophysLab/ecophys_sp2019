@@ -3,7 +3,7 @@
 ## April 25
 - Matthew Brym
 - Nan Hu
-- (Open)
+- James Morel
 - (Open)
 
 ## April 30
