@@ -7,7 +7,8 @@
 - (Open)
 
 ## April 30
-- (Open)
+- Jenna Hefele and Carson Berglund
+- Thalia Vazquez and Asha Wortham
 - (Open)
 - (Open)
 - (Open)
