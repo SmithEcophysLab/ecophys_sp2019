@@ -4,23 +4,23 @@
 - Matthew Brym
 - Nan Hu
 - James Morel
-- (Open)
+- Risa McNellis
 
 ## April 30
 - Jenna Hefele and Carson Berglund
 - Thalia Vazquez and Asha Wortham
-- (Open)
-- (Open)
+- Zhiyuan Liu
+- Evan Perkowski
 
 ## May 2
-- (Open)
-- (Open)
-- (Open)
-- (Open)
+- Minghao Guo
+- Leah Ortiz
+- Weston Beaird
+- Jeffrey Carruth
 
 ## May 7
-- (Open)
-- (Open)
-- (Open)
-- (Open)
-- (Open)
+- Javier Jurado
+- Joshua Sundgren
+- Jimmy Duenez
+- Luis Perez, Madison Valdez, Noel Estrada
+- Ryan Tijerina
