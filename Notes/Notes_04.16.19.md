@@ -25,4 +25,5 @@
 
 ## Post class notes
 - Might be better to frame as mutualism
+- Focus more on costs and benefits >> thus, shifts from mutualisms to other symbioses
 - Had ~10 minutes left over for "work on deliverable," but no one participated
