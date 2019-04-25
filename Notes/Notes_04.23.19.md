@@ -17,4 +17,5 @@
 - (placeholder)
 
 ## Post class notes
-- (placeholder)
+- Plenty of time for course feedback
+- Possibly create non-Biology feedback sheet
